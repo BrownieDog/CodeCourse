@@ -2,7 +2,7 @@
 
 void setup(){
     //if you can see this, you have jon's code!
-    // Nuh Uh
+    //Big Ol Butt Cheeks Incorperated
 }
 
 void loop(){
