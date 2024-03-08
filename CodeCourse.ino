@@ -1,32 +1,15 @@
 #include <Arduino.h>
 
 void setup(){
-    //if you can see this, you have jon's code!
-<<<<<<< HEAD
-    /*
-                                          ___
-                                   . -^   `--,
-                                  /# =========`-_
-                                /# (--====___====\
-                               /#   .- --.  . --.|\
-                              /##   |  * ) (   * ),
-                              |##   \    /\ \   / |
-                              |###   ---   \ ---  |
-                              |####      ___)    #|
-                              |######           ##|
-                               \##### ---------- /
-                                \####           (
-                                 `\###          |
-                                   \###         |
-                                    \##        |
-                                     \###.    .)
-                                      `======/
+    Serial.print("Initialization complete")
 
-    */
-=======
->>>>>>> 1e22221bdfd559aebf8adfd26bff85f4ae1984a6
 }
 
 void loop(){
+    Serial.print("Gavin");
+    delay(500);
+    Serial.print("Mom");
+    delay(500);
+    Serial.print("Gey");
 
 }
