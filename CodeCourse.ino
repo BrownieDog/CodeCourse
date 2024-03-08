@@ -2,6 +2,7 @@
 
 void setup(){
     //if you can see this, you have jon's code!
+<<<<<<< HEAD
     /*
                                           ___
                                    . -^   `--,
@@ -22,6 +23,8 @@ void setup(){
                                       `======/
 
     */
+=======
+>>>>>>> 1e22221bdfd559aebf8adfd26bff85f4ae1984a6
 }
 
 void loop(){
